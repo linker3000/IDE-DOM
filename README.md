@@ -11,7 +11,7 @@ DOMs are designed to replace hard disks and are a precursor to the SSDs of today
 
 ![Image](DOM1.jpg)
 
-Pin 20 on each connector is circled. This pin on the IDE side might need to be removed because this is a keying position and the pin 20 female aocket on some IDE cables is blocked off.
+Pin 20 on each connector is circled. This pin on the IDE side might need to be removed because this is a keying position and the pin 20 female socket on some IDE cables is blocked off.
 
 ![Image](DOM2.jpg)
 
