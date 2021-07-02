@@ -1,7 +1,7 @@
 # DOM-IDE
 A small board to allow a Disk On Module (DOM) to be connected to an IDE cable or Adapter.
 
-LICENCE: CC BY-SA-NC
+**LICENCE: CC BY-SA-NC**
 
 **This is a hobby project and comes with no official support. The PCB schematic and board design files are offered 'as is' with no claims made about their fitness for any specific purpose.**
 
