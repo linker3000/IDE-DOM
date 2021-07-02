@@ -17,7 +17,4 @@ DOMs are designed to replace hard disks and are a precursor to the SSDs of today
 
 If you fancy making your own adapter, you will need a PCB and some PCB header pins. Soldering is obvously required.
 
-You'll find the design files here: https://oshwlab.com/linker3000/40-pin-ide-dom-adapter_copy
-
-
-
+You'll find the design files here: https://easyeda.com/linker3000/40-pin-ide-dom-adapter_copy
